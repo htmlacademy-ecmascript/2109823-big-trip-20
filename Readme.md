@@ -1,7 +1,7 @@
 # Проект «Большое путешествие»
 
 * Студент: [Rus Minin](https://up.htmlacademy.ru/ecmascript/20/user/2109823).
-* Наставник: `Неизвестно`.
+* Наставник: https://htmlacademy.ru/profile/id1069033.
 
 ---
 
